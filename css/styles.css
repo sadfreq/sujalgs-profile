@@ -1,0 +1,179 @@
+body{
+    margin: 0px;
+    background-color: #C9CCD5;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1{margin-top: 0;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 75px;
+    line-height: 1.5;
+    color: #494949;   
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted #595260 7px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;  
+}
+
+a{
+    color: #494949;
+    font-family: 'Source Code Pro', monospace;
+    margin: 10px 20px;
+    text-decoration:none;
+    
+}
+
+a:hover{
+    color: #DBE6FD;
+}
+
+
+.top-container {
+    text-align: center;
+    background-color:#C9CCD5 ;
+    position: relative;
+    padding-top: 100px;
+}
+.emoji{
+    text-align: center;
+    padding-bottom: 70px;
+}
+.Hello{
+    text-align: center;
+    color: #F7CCAC;
+}
+.middle-container {
+    background-color:#C9CCD5;
+    color:whitesmoke;
+    padding: 100px;
+        
+}
+.skills{
+    background-color:#EEF1FF;
+    color: #494949;
+    border-radius: 5%;
+    padding: 100px;
+}
+.bottom-container {
+    width: 100%;
+    margin: 100px auto auto auto;
+    background-color:#EEF1FF;
+    padding: 50px 0 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px; 
+    bottom: 300px;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.musicpro{
+    color: #393E46;
+    font-family: 'Source Code Pro', monospace;
+   font-size: 20px;
+   padding-bottom: 50px;
+   font-weight:600;
+}
+.myinfo{
+    color: #494949;
+
+
+    align-items: center;
+} 
+.skill-row{
+    width: 55%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.mixing-pic{
+    width: 250px;
+    /*border-radius: 50%;*/
+    float: left;
+    padding-right: 50px;
+}
+
+.mixing-para{
+    color: #494949;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.mixing-pic-2{
+    width: 250px;
+    /*border-radius: 50%;*/
+    float: right;
+    padding-right: 50px;
+}
+
+.contact-me{
+    color:#494949 ;
+}
+
+.btn{
+     font-size: 30px;    
+}
+
+.getintouch{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 50px;
+
+}
+.copyright{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 12px;
+}
+
+.socials{
+    text-decoration:line-through;
+    font-size: 30px ;
+
+}
+
+.abc{
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+.streams{
+    text-decoration:underline;
+}
+
+.sujalcopyright{
+    text-decoration: underline;
+}
+
+.spotify{
+    font-family: 'Source Code Pro', monospace;
+    color: #494949;
+    text-align:center;   
+}
+.spotify-heading{
+    text-decoration: underline;
+}
+
+.splx-spotify{
+    /*text-decoration: underline;*/
+}
+
+.crafting{
+    text-decoration:line-through;
+}
